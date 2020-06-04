@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T00:55:32.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="u2cqHmXwMRU2qLrugU-B" version="13.1.11" type="github"><diagram id="Fj3CE1plhdFT2i3BtV33" name="Page-1">7Vnbdto4FP0aHmH5RiCP3JLSyXRYIZO088ISsrDVyJZHlsPl63tkZBsjJ03bkGZWJnnAOjqW5b239pGg5Y6izaVASfgn9wlrOZa/abnjluPYltuHDxXZ7iNdTwcCQX2dVAXmdEeKO3U0oz5Ja4mScyZpUg9iHscEy1oMCcHX9bQVZ/WnJiggRmCOETOjd9SX4T7a71pV/AOhQVg82bZ0T4SKZB1IQ+Tz9UHInbTckeBc7q+izYgwBV6By/6+i0d6y4kJEsvn3LALNv9Od/4fD3zX/vjPR96TFmsXwzwgluk31rOV2wICwbPYJ2oUq+UO1yGVZJ4grHrXQDrEQhkxaNlwac6qeAIRkmwOQnqWl4RHRIotpOjeEjEtGbun2+uKANfVsfAAfLckXpMelGNXuMCFhuZHYLLeIEzfR8nuN6JknQgl20TpejK/gchgNjXwIj4sNN3kQoY84DFikyo6rCNa5VxxnmgcvxIpt9o1UCZ5HWUAV2w/6/vzxhfV6HSL5nhz2Dne6taj7KQ8E5g8AYGnLQqJgMgn8rr7PIXBk1wLwpCkD3UzenHiPIO3QYR2PIbYiPHMXwkOQBwTyDPJaExGpfMq6FaQOeKMizzHhf8LNZFhIJBPSdUX81hRnErB78nBDav8Tw1EGWsayEdpWGpCrRYKZn2FloTNeEolhVm744j6fi6hImHAaKA6llxKHkEH0gEMcyKiLpumtaveS+vMLt6zUK+6J4V0GgfQclUrRInqiTaBKosdtE69TiK4n2E5xWqKw0TsL+o5uIL7ZUyiX3cJxzJdoskkbPtUJtE1tDZ3c12BzrGaGFkCjcRQWwEpjfKKfcjXMclS2cOj2iglwFTHEOH7IDeaJhHmDxukSaVvVDRWdKNkONTzGYdSqi3JQKHjXGA/djoUCF5RsDDRwfBE58JHEsGHiqfwifJF1gbi26kkMaZMRfMdxMVccgEDLxawvKBPLsaEgQ+I7WK/NBdzdzHM8D2RizWV4eKv5VeYV9q2nX4nAR3+unQ870g6tm1Kp29Kp4i9fHkxpTPLlixXzS0VMkNqiKlazyu1dn9Dwfn5wtF7ZuHw3lTh6JmF424OgTEVapVA+dDF4f/acfra4eegL8qT0Cnqh9vt/ub6YZuau5zCUNYnItdc3BtSgzeVdY4ESekOLfOE3NNhHaeanyZ6j4VQKiThNJb5C3aHre74SHmNMtXButO8/GnAazgNNPF0urPAuWkNGJM0PSzxZyhS6yNepkmOwhlTTC0FXAXq6oFCubQ+3NzM5v8tN7f7z7Tz3puy82LaTx1zC3tCWCpBv8JB9/zIgnqmBXkN0u6dStoFKEbVe+cO9AwLOn9NC3LM/WJ+moXQTBWMfKdu3c4+vVPCzo748sx1VX6b+TqEnRmE3Q0UR5NYQe+/U56cwvCKb/r6r7ewnM+3f19fBV9ijIN5hugAXW7b5nfGkxiLbSIVRRZS+/5rkpqb/vdBl+ecf5eucnv8i3xBs/oBIe87+BnGnXwD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-04T00:56:17.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="Df8j1__rG0gJIvirNC4m" version="13.1.11" type="github">
+  <diagram id="Fj3CE1plhdFT2i3BtV33" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="170" width="330" height="321" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="170" width="180" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-10" value="REST API" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zgxqIzdKvoz-JZJo7t0l-4" target="zgxqIzdKvoz-JZJo7t0l-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-4" value="Amazon Cloudfront" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudfront;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-5" value="S3 static website" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3_Bucket_with_Objects-128.png" parent="1" vertex="1">
+          <mxGeometry x="440" y="211" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-15" value="Public Virtual Interface" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zgxqIzdKvoz-JZJo7t0l-7" target="zgxqIzdKvoz-JZJo7t0l-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-7" value="AWS Direct Connect" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.direct_connect;" parent="1" vertex="1">
+          <mxGeometry x="280" y="355" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-17" value="GIC Network" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="470" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-19" value="Access website&amp;nbsp;&lt;br&gt;via HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zgxqIzdKvoz-JZJo7t0l-18" target="zgxqIzdKvoz-JZJo7t0l-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-18" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="375" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-22" value="AWS Network" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="470" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-25" value="Cloud PC / VPN" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="445" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zgxqIzdKvoz-JZJo7t0l-26" value="WAF Enabled" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="180" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2XVURLgYnccgSuaiAaGy-1" value="Encrypted at Rest" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="429" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
