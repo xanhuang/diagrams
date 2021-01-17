@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-17T11:00:11.802Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="j3i8ZTLKsYkcbNEm-a0Q" version="14.1.8" type="github" pages="5">
+<mxfile modified="2021-01-17T13:52:11.482Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BEJd_Xi4thAQ3CCQKOIv" version="14.1.8" type="github" pages="5">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1801" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -948,7 +948,7 @@
             <mxPoint x="-1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma2BLsgizDa9zVQwyHdr-21" value="Websphere&lt;br&gt;Liberty&lt;br&gt;EC2&lt;br&gt;(With CodeDeploy Agent)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
+        <mxCell id="Ma2BLsgizDa9zVQwyHdr-21" value="Websphere&lt;br&gt;Liberty&lt;br&gt;EC2&lt;br&gt;(with CodeDeploy Agent)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
           <mxGeometry x="694" y="461" width="62.5" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Ps4ZNlbYQIieIYeI0102-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
@@ -1038,11 +1038,11 @@
             <mxPoint x="-30.3" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ps4ZNlbYQIieIYeI0102-22" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
+        <mxCell id="Ps4ZNlbYQIieIYeI0102-22" value="EC2&lt;br&gt;(with CodeDeploy Agent)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
           <mxGeometry x="706" y="880" width="62.5" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Ps4ZNlbYQIieIYeI0102-23" value="Oracle RDS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance;fillColor=#2E73B8;gradientColor=none;fontSize=12;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
-          <mxGeometry x="578" y="943" width="49.5" height="66" as="geometry" />
+          <mxGeometry x="508" y="965" width="49.5" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
