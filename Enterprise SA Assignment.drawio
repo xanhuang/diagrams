@@ -1,6 +1,6 @@
-<mxfile modified="2021-01-18T10:25:34.537Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="m80qXQUWbXjolR7sdbXp" version="14.1.8" type="github" pages="4">
+<mxfile modified="2021-01-18T14:46:02.310Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lXDHuGLE92wKUmLpfdk_" version="14.1.8" type="github" pages="4">
   <diagram id="5-Tar-_SIBG62LtOE-cY" name="Architecture">
-    <mxGraphModel dx="1484" dy="922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="qOHIeAj_7f48MnCFy-f6-0" />
         <mxCell id="qOHIeAj_7f48MnCFy-f6-1" parent="qOHIeAj_7f48MnCFy-f6-0" />
@@ -36,13 +36,13 @@
         <mxCell id="OEDQTNElA4T3kuHoy9JD-36" value="read" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="qOHIeAj_7f48MnCFy-f6-1" source="OEDQTNElA4T3kuHoy9JD-14" target="OEDQTNElA4T3kuHoy9JD-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OEDQTNElA4T3kuHoy9JD-14" value="Websphere &lt;br&gt;Liberty&lt;br&gt;EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
+        <mxCell id="OEDQTNElA4T3kuHoy9JD-14" value="Websphere &lt;br&gt;App Server&lt;br&gt;EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
           <mxGeometry x="232" y="622" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="OEDQTNElA4T3kuHoy9JD-37" value="read" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qOHIeAj_7f48MnCFy-f6-1" source="OEDQTNElA4T3kuHoy9JD-15" target="OEDQTNElA4T3kuHoy9JD-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OEDQTNElA4T3kuHoy9JD-15" value="Websphere &lt;br&gt;Liberty&lt;br&gt;EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
+        <mxCell id="OEDQTNElA4T3kuHoy9JD-15" value="Websphere &lt;br&gt;App Server&lt;br&gt;EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
           <mxGeometry x="536.5" y="622" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="OEDQTNElA4T3kuHoy9JD-21" value="RDS Oracle&lt;br&gt;Read Replica" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
@@ -87,7 +87,7 @@
           <mxGeometry x="289" y="774" width="49.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OEDQTNElA4T3kuHoy9JD-16" value="&#xa;&#xa;Auto Scaling Group" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
-          <mxGeometry x="162.5" y="619" width="496" height="108" as="geometry" />
+          <mxGeometry x="160" y="610.5" width="496" height="108" as="geometry" />
         </mxCell>
         <mxCell id="OEDQTNElA4T3kuHoy9JD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qOHIeAj_7f48MnCFy-f6-1" source="OEDQTNElA4T3kuHoy9JD-40" target="OEDQTNElA4T3kuHoy9JD-14">
           <mxGeometry relative="1" as="geometry" />
@@ -248,13 +248,13 @@
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-11" value="read" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Vdvx9ft_6GjrmnkzxRZg-1" source="Vdvx9ft_6GjrmnkzxRZg-12" target="Vdvx9ft_6GjrmnkzxRZg-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-12" value="Websphere &lt;br&gt;Liberty&lt;br&gt;EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
+        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-12" value="Websphere &lt;br&gt;App Server&lt;br&gt;EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
           <mxGeometry x="232" y="622" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-13" value="read" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Vdvx9ft_6GjrmnkzxRZg-1" source="Vdvx9ft_6GjrmnkzxRZg-14" target="Vdvx9ft_6GjrmnkzxRZg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-14" value="Websphere &lt;br&gt;Liberty&lt;br&gt;EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
+        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-14" value="Websphere &lt;br&gt;App Server&lt;br&gt;EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
           <mxGeometry x="536.5" y="622" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-15" value="RDS Oracle&lt;br&gt;Read Replica" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
@@ -299,7 +299,7 @@
           <mxGeometry x="289" y="774" width="49.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-25" value="&#xa;&#xa;Auto Scaling Group" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
-          <mxGeometry x="162.5" y="619" width="496" height="108" as="geometry" />
+          <mxGeometry x="162.5" y="616" width="496" height="108" as="geometry" />
         </mxCell>
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Vdvx9ft_6GjrmnkzxRZg-1" source="Vdvx9ft_6GjrmnkzxRZg-28" target="Vdvx9ft_6GjrmnkzxRZg-12">
           <mxGeometry relative="1" as="geometry" />
@@ -748,7 +748,7 @@
             <mxPoint x="-1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ma2BLsgizDa9zVQwyHdr-21" value="Websphere&lt;br&gt;Liberty&lt;br&gt;EC2&lt;br&gt;(with CodeDeploy Agent)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
+        <mxCell id="Ma2BLsgizDa9zVQwyHdr-21" value="Websphere&lt;br&gt;App Server&lt;br&gt;EC2&lt;br&gt;(with CodeDeploy Agent)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
           <mxGeometry x="694" y="461" width="62.5" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Ps4ZNlbYQIieIYeI0102-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6U5MmbwdtqxVaYsrvtzk-1">
