@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-18T06:08:13.769Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Msf4RNJdMQsL9-1exdl5" version="14.1.8" type="github" pages="4">
+<mxfile modified="2021-01-18T10:25:34.537Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="m80qXQUWbXjolR7sdbXp" version="14.1.8" type="github" pages="4">
   <diagram id="5-Tar-_SIBG62LtOE-cY" name="Architecture">
     <mxGraphModel dx="1484" dy="922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
         <mxCell id="OEDQTNElA4T3kuHoy9JD-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="qOHIeAj_7f48MnCFy-f6-1" source="OEDQTNElA4T3kuHoy9JD-58" target="OEDQTNElA4T3kuHoy9JD-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OEDQTNElA4T3kuHoy9JD-58" value="VIrtual Private&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
+        <mxCell id="OEDQTNElA4T3kuHoy9JD-58" value="Transit&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
           <mxGeometry x="823" y="544" width="48" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OEDQTNElA4T3kuHoy9JD-60" value="Customer&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.router;fillColor=#F58534;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
@@ -354,7 +354,7 @@
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="Vdvx9ft_6GjrmnkzxRZg-1" source="Vdvx9ft_6GjrmnkzxRZg-43" target="Vdvx9ft_6GjrmnkzxRZg-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-43" value="VIrtual Private&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
+        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-43" value="Transit&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
           <mxGeometry x="823" y="544" width="48" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-44" value="Customer&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.router;fillColor=#F58534;gradientColor=none;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
@@ -495,10 +495,10 @@
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-89" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-79">
           <mxGeometry y="120" width="263" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-90" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-89">
+        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-90" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-89">
           <mxGeometry width="132" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-91" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-89">
+        <mxCell id="Vdvx9ft_6GjrmnkzxRZg-91" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-89">
           <mxGeometry x="132" width="131" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vdvx9ft_6GjrmnkzxRZg-92" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="Vdvx9ft_6GjrmnkzxRZg-1">
@@ -587,7 +587,7 @@
         <mxCell id="iMNXXAXt-pj3RqEWmFV1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="iMNXXAXt-pj3RqEWmFV1-1" source="iMNXXAXt-pj3RqEWmFV1-42" target="iMNXXAXt-pj3RqEWmFV1-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iMNXXAXt-pj3RqEWmFV1-42" value="VIrtual Private&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="iMNXXAXt-pj3RqEWmFV1-1">
+        <mxCell id="iMNXXAXt-pj3RqEWmFV1-42" value="Transit&lt;br&gt;Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpn_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="iMNXXAXt-pj3RqEWmFV1-1">
           <mxGeometry x="850" y="395" width="48" height="51" as="geometry" />
         </mxCell>
         <mxCell id="iMNXXAXt-pj3RqEWmFV1-47" value="On prem network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iMNXXAXt-pj3RqEWmFV1-1">
