@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-17T14:20:32.582Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pcNVjQ_xWLO4gNwu9aHO" version="14.1.8" type="github" pages="4">
+<mxfile modified="2021-01-18T06:08:13.769Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Msf4RNJdMQsL9-1exdl5" version="14.1.8" type="github" pages="4">
   <diagram id="5-Tar-_SIBG62LtOE-cY" name="Architecture">
     <mxGraphModel dx="1484" dy="922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -207,12 +207,6 @@
         </mxCell>
         <mxCell id="npcu6QNxOEF94FZvNjcY-0" value="Direct&lt;br&gt;Connect" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.direct_connect;fillColor=#F58536;gradientColor=none;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
           <mxGeometry x="941.25" y="637" width="46" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="rFb4tgYw1s7_lo8XnTqQ-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
-          <mxGeometry x="871" y="254" width="132" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rFb4tgYw1s7_lo8XnTqQ-43" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="qOHIeAj_7f48MnCFy-f6-1">
-          <mxGeometry x="1003" y="254" width="131" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
