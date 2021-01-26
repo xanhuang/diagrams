@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-26T12:36:25.468Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5YgpBTy2W4gcvlh_Kh1t" version="14.1.8" type="github" pages="9">
+<mxfile modified="2021-01-26T12:46:08.428Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dnj4SuHLFbW-_Ydub6Sp" version="14.1.8" type="github" pages="9">
   <diagram id="5-Tar-_SIBG62LtOE-cY" name="Architecture">
     <mxGraphModel dx="1484" dy="922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -1557,11 +1557,6 @@
         </mxCell>
         <mxCell id="kxRq3Ae_PAyGaKW08SYC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NPVg0EvjqIHMybd4QtEq-1" source="kxRq3Ae_PAyGaKW08SYC-25" target="kxRq3Ae_PAyGaKW08SYC-9">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kxRq3Ae_PAyGaKW08SYC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NPVg0EvjqIHMybd4QtEq-1" source="kxRq3Ae_PAyGaKW08SYC-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1304" y="622" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kxRq3Ae_PAyGaKW08SYC-25" value="ELB&lt;br&gt;(HTTPS)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_load_balancing;fillColor=#F58536;gradientColor=none;" vertex="1" parent="NPVg0EvjqIHMybd4QtEq-1">
           <mxGeometry x="1130" y="567" width="49" height="52" as="geometry" />
