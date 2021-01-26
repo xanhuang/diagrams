@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-26T15:19:51.741Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="FR4toPadiSYwy34cwAK-" version="14.1.8" type="github" pages="10">
+<mxfile modified="2021-01-26T15:23:24.383Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MNYudoEkSZ18SuYEFPT3" version="14.1.8" type="github" pages="10">
   <diagram id="5-Tar-_SIBG62LtOE-cY" name="Architecture">
     <mxGraphModel dx="1484" dy="922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -397,8 +397,30 @@
         <mxCell id="y9NLJXO-m8OyhIfAscvW-64" value="Direct&lt;br&gt;Connect" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.direct_connect;fillColor=#F58536;gradientColor=none;" vertex="1" parent="y9NLJXO-m8OyhIfAscvW-1">
           <mxGeometry x="941.25" y="637" width="46" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="y9NLJXO-m8OyhIfAscvW-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;fontColor=#330000;" edge="1" parent="y9NLJXO-m8OyhIfAscvW-1" source="y9NLJXO-m8OyhIfAscvW-65" target="y9NLJXO-m8OyhIfAscvW-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1216" y="911" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1IVRC5I7IAmOGwj7gmiS-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 11px&quot;&gt;Live Data Replication&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-size: 11px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 11px&quot;&gt;(Change Data Capture aka CDC)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#330000;" vertex="1" connectable="0" parent="y9NLJXO-m8OyhIfAscvW-69">
+          <mxGeometry x="-0.0211" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y9NLJXO-m8OyhIfAscvW-65" value="Oracle DB" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;fontSize=12;fontColor=#330000;" vertex="1" parent="y9NLJXO-m8OyhIfAscvW-1">
           <mxGeometry x="1195.5" y="642" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y9NLJXO-m8OyhIfAscvW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=12;fontColor=#330000;" edge="1" parent="y9NLJXO-m8OyhIfAscvW-1" source="y9NLJXO-m8OyhIfAscvW-68" target="y9NLJXO-m8OyhIfAscvW-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="833" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9NLJXO-m8OyhIfAscvW-68" value="Database Migration &lt;br&gt;Service" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.database_migration_service;fillColor=#2E73B8;gradientColor=none;fontSize=12;fontColor=#330000;" vertex="1" parent="y9NLJXO-m8OyhIfAscvW-1">
+          <mxGeometry x="239" y="867" width="47" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
